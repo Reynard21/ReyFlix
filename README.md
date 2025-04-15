@@ -10,7 +10,18 @@
 ```bash
 git clone https://github.com/Reynard21/ReyFlix.git
 ```
-   
+2. Open it on your directory
+```bash
+cd (your directory to the cloned repository)
+```
+3. Install dependencies
+```bash
+npm install
+```
+4. Start the local server
+```bash
+npm run dev
+```
 
 # React + Vite
 
