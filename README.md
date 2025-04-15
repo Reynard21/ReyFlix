@@ -1,6 +1,15 @@
 # ReyFlix  
 💻 Built with React  
 
+#Features  
+- Setup only takes a few minutes by editing the single config file  
+- Built using React & UIverse  
+- Responsive for different devices
+
+# Getting Started Locally  
+1. Clone this repository to your local machine:
+   
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
