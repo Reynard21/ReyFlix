@@ -7,6 +7,9 @@
 
 # Getting Started Locally  
 1. Clone this repository to your local machine:
+```bash
+git clone https://github.com/Reynard21/ReyFlix.git
+```
    
 
 # React + Vite
