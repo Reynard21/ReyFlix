@@ -1,12 +1,12 @@
 # ReyFlix
-Built with React.js
+💻 Built with React.js
 
 Features
-Setup only takes a few minutes by editing the single config file
-Built using React, UIVerse
-Responsive for different devices
-Getting Started Locally
-Clone this repository to your local machine:
+Setup only takes a few minutes by editing the single config file  
+Built using React, UIVerse  
+Responsive for different devices  
+Getting Started Locally  
+Clone this repository to your local machine:  
 
 
 
