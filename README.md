@@ -1,7 +1,7 @@
 # ReyFlix
 💻 Built with React.js
 
-Features
+# Features    
 Setup only takes a few minutes by editing the single config file  
 Built using React, UIVerse  
 Responsive for different devices  
