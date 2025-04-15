@@ -8,14 +8,18 @@ Responsive for different devices
 Getting Started Locally
 Clone this repository to your local machine:
 
-git clone https://github.com/dillionverma/portfolio
-Move to the cloned directory
 
-cd portfolio
-Install dependencies:
 
-pnpm install
-Start the local Server:
+First, run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
 pnpm dev
-Open the Config file and make changes
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
