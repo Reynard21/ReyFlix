@@ -1,4 +1,5 @@
 # ReyFlix  
+A simple go-to movie watch-lists to list down your to-watch movies and favourite movies!  
 💻 Built with React  
 
 # Features  
